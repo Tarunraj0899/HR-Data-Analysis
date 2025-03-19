@@ -4,7 +4,7 @@
 The objective of this project is to analyze employee attrition patterns, identify key factors contributing to employee turnover, and provide actionable insights to reduce attrition and improve workforce retention. This includes evaluating demographic factors, salary levels, tenure, and job roles to make data-driven HR decisions.
 
 ## Dataset used
-- <a hres="https://github.com/Tarunraj0899/HR-Data-Analysis/blob/main/HR_Analytics.csv">Dataset</a>
+- <a href="https://github.com/Tarunraj0899/HR-Data-Analysis/blob/main/HR_Analytics.csv">Dataset</a>
 
 ## Questions (KPIs)
 - What is the overall attrition rate, and how does it vary across departments?
